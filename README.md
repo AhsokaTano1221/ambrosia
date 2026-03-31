@@ -59,6 +59,8 @@ ambrosia/
 
 Ambrosia was created as part of the **Technohacks Hackathon 2026**.
 
+![Technohacks Hackathon 2026 overview](./technohacks-2026.png)
+
 From the event details shown in the hackathon page:
 
 - theme: **Create Apps and Wireframes that Align with UN Goals**
